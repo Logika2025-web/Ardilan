@@ -1,0 +1,108 @@
+<html>
+<title>STALCRAFT X</title>
+
+<body style="background-color:#172226; font-family:sans-serif;">
+    <header>
+        <h4 style="color:white; text-align:center;">калькулятор сборок в сталкрафт</h4>
+        <!-- Шапка: назва сайту, логотип, посилання -->
+
+    </header>
+
+    <main>
+
+        <table style="border:1px solid:black;">
+            <h2>Бронекостюм «КЗ-4»</h2>
+            <tr>
+                <td style="border:1px solid black;">Ранг : Майстер</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">лас : БойовіM</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні рюкзаки : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні контейнери : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Доступний на регіоні : Всі регіони</td>
+            </tr>
+        </table>
+        <img src="https://stalcraft.wiki/_next/image?url=https%3A%2F%2Fcdn.stalcraft.wiki%2Fexbo_item_parser%2Farmor%2Fcombat%2Fqj1lk.png&w=1920&q=75">
+        <p>
+            Бойова броня угруповання «Обрій». Розробники костюма орієнтувалися на серію «Скіф» при виробництві, і це у
+            них
+            успішно вийшло - незважаючи на незначні відмінності, вартість бронекостюму помітно нижча.
+        </p>
+        <table style="border:1px solid:black;">
+            <h2>Бронекостюм «ZIVCAS M2-C»</h2>
+            <tr>
+                <td style="border:1px solid black;">Ранг :легенда</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">лас :Комбіновані</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні рюкзаки : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні контейнери : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Доступний на регіоні : Всі регіони</td>
+                </tr>
+        </table>
+               <p>
+            
+        </p>
+        <img src="https://stalcraft.wiki/_next/image?url=https%3A%2F%2Fcdn.stalcraft.wiki%2Fexbo_item_parser%2Farmor%2Fcombined%2Fm03w7.png&w=1920&q=75">
+            <p>Бронекостюм на базі M2, розроблений спеціально для польових командирів ZIVCAS. Ця передова модель оснащена інноваційним вбудованим комунікаційним пристроєм та голографічним інтерфейсом, що дозволяє ефективно координувати дії оперативників та безперервно відстежувати ситуацію на полі бою! Крім цього, модифікація торкнулася системи захисту та підтримання життєдіяльності. Посилені системи захисту та підтримки життєдіяльності забезпечують найвищий рівень виживання серед будь-яких аналогів, зберігаючи життя найціннішим бійцям ZIVCAS.</p>
+            <table style="border:1px solid:black;">
+            <h2>Бронекостюм «центуріон»</h2>
+            <tr>
+                <td style="border:1px solid black;">Ранг :майстер</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">лас :бойові</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні рюкзаки : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Сумісні контейнери : Будь-які</td>
+            </tr>
+
+            <tr>
+                <td style="border:1px solid black;">Доступний на регіоні : Всі регіони</td>
+               <p>
+            
+        </p>
+        <img src="https://stalcraft.wiki/_next/image?url=https%3A%2F%2Fcdn.stalcraft.wiki%2Fexbo_item_parser%2Farmor%2Fcombat%2F4ql1r.png&w=1920&q=75">
+            <p>Майже ідеальна броня для ведення бою. Хороший захист від куль та уламків, зручність – даний шедевр може дозволити собі не кожен.</p>
+       
+           
+        
+            </tr>
+        </table>
+
+        <!-- Основна інформація сайту -->
+
+    </main>
+    <footer>
+        <!-- Підвал з додатковою інформацією та підписом автора -->
+<h4 style="color:white;;">Автор:Юра</h4>
+    </footer>
+</body>
+
+</html>
